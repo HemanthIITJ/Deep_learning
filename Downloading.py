@@ -4,7 +4,7 @@ import os
 from urllib.parse import urljoin
 #https://deepgenerativemodels.github.io/syllabus.html
 # Define the url and the file types
-url = "https://ufal.mff.cuni.cz/courses/npfl114/2223-summer#lectures"
+url = "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/slides/"
 file_types = (".pdf", ".pptx")
 
 # Get the html content from the url
