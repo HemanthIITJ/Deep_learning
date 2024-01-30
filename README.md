@@ -70,16 +70,22 @@ Happy learning responsibly!
 --------
 ### `Textbooks link`
 
-- [Understanding Deep Learning](https://github.com/udlbook/udlbook)
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook)⬅️⬅️
 
-- [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)
+- [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)⬅️⬅️
+
+- [Machine Learning with PyTorch and Scikit-Learn Book](https://github.com/rasbt/machine-learning-book)⬅️⬅️
+
+
 
 ----
 ### `deep learning architectures`,
-- [deeplearning-models](https://github.com/rasbt/deeplearning-models/tree/master)
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models/tree/master)🎯🎯
 ---
 ---
+
 ## `Repo structure`
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 🧠🧠
 ```python
 ├─ Applied_DL
    ├─ 00 - Training.pdf
