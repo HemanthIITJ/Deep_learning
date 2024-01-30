@@ -47,6 +47,7 @@ Happy learning responsibly!
 
 
 ---
+# `Survey link`
 - [Awesome-LLM-Survey](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
 - [Efficient Large Language](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
@@ -57,4 +58,25 @@ Happy learning responsibly!
 - [LLM alignment survey](https://github.com/Magnetic2014/llm-alignment-survey)
 
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+
+
+
+
+
+
+
+
+--------
+### `BOOK link`
+
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook)
+
+- [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)
+
+
+
+
+
+
 
