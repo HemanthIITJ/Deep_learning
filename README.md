@@ -44,3 +44,16 @@ Let's ensure that our quest for knowledge is conducted with integrity and respec
 
 Happy learning responsibly!
 
+
+
+---
+- [Awesome-LLM-Survey](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
+- [Efficient Large Language](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+- [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
+- [Awesome LLMs Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
+
+- [The Rise and Potential of Large Language Model Based Agents ](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+
+- [LLM alignment survey](https://github.com/Magnetic2014/llm-alignment-survey)
+
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
