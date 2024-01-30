@@ -77,7 +77,8 @@ Happy learning responsibly!
 
 
 
-
+---
+## `Repo structure`
 ```python
 ├─ Applied_DL
    ├─ 00 - Training.pdf
