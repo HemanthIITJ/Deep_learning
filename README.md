@@ -74,9 +74,10 @@ Happy learning responsibly!
 
 - [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)
 
-
-
-
+----
+### `deep learning architectures`,
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models/tree/master)
+---
 ---
 ## `Repo structure`
 ```python
