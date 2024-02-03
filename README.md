@@ -80,6 +80,15 @@ Happy learning responsibly!
 
 
 
+### 
+---
+
+- [The Algorithms](https://github.com/TheAlgorithms)
+
+---
+
+
+
 ----
 ### `deep learning architectures`,
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models/tree/master)🎯🎯
