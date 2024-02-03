@@ -82,8 +82,10 @@ Happy learning responsibly!
 
 ### 
 ---
-
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [The Algorithms](https://github.com/TheAlgorithms)
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms?tab=readme-ov-file)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ---
 
