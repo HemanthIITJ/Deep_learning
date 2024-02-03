@@ -76,6 +76,8 @@ Happy learning responsibly!
 
 - [Machine Learning with PyTorch and Scikit-Learn Book](https://github.com/rasbt/machine-learning-book)⬅️⬅️
 
+- [100 Lectures on Machine Learning](https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/)
+
 
 
 ----
