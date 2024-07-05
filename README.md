@@ -1,5 +1,5 @@
 # Deep Learning University Lectures Repository
-![](./Images/Designer3.png)
+![](./Images/123.jpg)
 
 
 
